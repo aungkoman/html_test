@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T14:44:35.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="OY7HZacEetkjbIppBreP" version="14.8.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-18T14:48:49.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="adebEwNhTj_OmfTTCfoQ" version="14.8.0" type="github" pages="3">
   <diagram id="kXS5Yd48JshARtUApv8a" name="User Workflow Diagram">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MSNefa4A1GaAyFLb2OZJ" name="Home Page Wireframe">
-    <mxGraphModel dx="2076" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="it1VfTKfV1E_WLA2Ra3W-0" />
         <mxCell id="it1VfTKfV1E_WLA2Ra3W-1" parent="it1VfTKfV1E_WLA2Ra3W-0" />
@@ -448,15 +448,15 @@
           <mxGeometry x="1060" y="335" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="it1VfTKfV1E_WLA2Ra3W-77" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Account Avator&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="it1VfTKfV1E_WLA2Ra3W-1">
-          <mxGeometry x="1220" y="280" width="120" height="20" as="geometry" />
+          <mxGeometry x="1170" y="330" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="it1VfTKfV1E_WLA2Ra3W-78" value="" style="curved=1;endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.797;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="it1VfTKfV1E_WLA2Ra3W-1" target="it1VfTKfV1E_WLA2Ra3W-76">
+        <mxCell id="it1VfTKfV1E_WLA2Ra3W-78" value="" style="curved=1;endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.797;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="it1VfTKfV1E_WLA2Ra3W-1" source="it1VfTKfV1E_WLA2Ra3W-77" target="it1VfTKfV1E_WLA2Ra3W-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1239.02" y="300" as="sourcePoint" />
             <mxPoint x="1100" y="299.52" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1219.02" y="270" />
-              <mxPoint x="1149" y="290" />
+              <mxPoint x="1170" y="300" />
+              <mxPoint x="1130" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -465,6 +465,35 @@
         </mxCell>
         <mxCell id="it1VfTKfV1E_WLA2Ra3W-80" value="Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="it1VfTKfV1E_WLA2Ra3W-1">
           <mxGeometry x="640" y="330" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="it1VfTKfV1E_WLA2Ra3W-81" value="Website Footer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="it1VfTKfV1E_WLA2Ra3W-1">
+          <mxGeometry x="520" y="910" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="it1VfTKfV1E_WLA2Ra3W-84" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Website Heading&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="it1VfTKfV1E_WLA2Ra3W-1">
+          <mxGeometry x="360" y="910" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="it1VfTKfV1E_WLA2Ra3W-87" value="" style="curved=1;endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="it1VfTKfV1E_WLA2Ra3W-1" source="it1VfTKfV1E_WLA2Ra3W-84" target="it1VfTKfV1E_WLA2Ra3W-81">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564.02" y="870" as="sourcePoint" />
+            <mxPoint x="425" y="869.52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="474" y="860" />
+              <mxPoint x="550" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="it1VfTKfV1E_WLA2Ra3W-88" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;Job Summary Card&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="it1VfTKfV1E_WLA2Ra3W-1">
+          <mxGeometry x="1170" y="563" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="it1VfTKfV1E_WLA2Ra3W-89" value="" style="curved=1;endArrow=classic;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="it1VfTKfV1E_WLA2Ra3W-1" source="it1VfTKfV1E_WLA2Ra3W-88" target="it1VfTKfV1E_WLA2Ra3W-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1199.02" y="550" as="sourcePoint" />
+            <mxPoint x="1060" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1179.02" y="520" />
+              <mxPoint x="1109.02" y="520" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
